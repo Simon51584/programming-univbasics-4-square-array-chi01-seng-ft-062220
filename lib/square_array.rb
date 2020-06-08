@@ -1,4 +1,4 @@
 def square_array(array)
-  array.times.do 
+  array.length.times do  
   # your code here
 end
