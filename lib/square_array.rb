@@ -4,6 +4,6 @@ def square_array(array)
     puts array[counter]
     count += 1 
   end
-  square_array
+  array 
   # your code here
 end
